@@ -1,0 +1,27 @@
+button{
+    background-color: black;
+    color: white;
+    border: 1%;
+    font-weight: bold;
+}
+#pagination-wrapper{
+    margin: +auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.container{
+    margin-top: 100px;
+    gap: 10px;
+}
+span{
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 2rem;
+
+}
+body{
+    background: orange;
+}
